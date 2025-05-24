@@ -1,13 +1,11 @@
---2025-05-24 23:30:54--  https://tenor.com/view/chibi-anime-boy-gif-9216917100686033263
-Resolving tenor.com (tenor.com)... 34.120.13.18
-Connecting to tenor.com (tenor.com)|34.120.13.18|:443... connected.
+--2025-05-24 23:38:26--  https://media.tenor.com/f-kRRQ6dQW8AAAAi/chibi-anime-boy.gif
+Resolving media.tenor.com (media.tenor.com)... 142.250.207.234, 172.217.166.10, 142.250.76.74, ...
+Connecting to media.tenor.com (media.tenor.com)|142.250.207.234|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 118365 (116K) [text/html]
-Saving to: ‘chibi-anime-boy-gif-9216917100686033263’
+Length: 28296 (28K) [image/gif]
+Saving to: ‘chibi-anime-boy.gif’
 
-     0K .......... .......... .......... .......... .......... 43%  216K 0s
-    50K .......... .......... .......... .......... .......... 86%  560K 0s
-   100K .......... .....                                      100% 1.20M=0.3s
+     0K .......... .......... .......                         100%  911K=0.03s
 
-2025-05-24 23:30:56 (347 KB/s) - ‘chibi-anime-boy-gif-9216917100686033263’ saved [118365/118365]
+2025-05-24 23:38:26 (911 KB/s) - ‘chibi-anime-boy.gif’ saved [28296/28296]
 
